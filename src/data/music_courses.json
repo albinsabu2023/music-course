@@ -1,0 +1,104 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Introduction to Music Theory",
+            "slug": "intro-to-music-theory",
+            "description": "A comprehensive course covering the basics of music theory, including notation, harmony, and rhythm.",
+            "price": 49.99,
+            "instruction": "John Doe",
+            "isFeatured": true,
+            "image": "https://example.com/images/intro-theory.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Guitar for Beginners",
+            "slug": "guitar-for-beginners",
+            "description": "Learn the fundamentals of playing guitar, including chords, strumming patterns, and basic songs.",
+            "price": 39.99,
+            "instruction": "Jane Smith",
+            "isFeatured": false,
+            "image": "https://example.com/images/guitar-beginners.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Advanced Piano Techniques",
+            "slug": "advanced-piano-techniques",
+            "description": "Explore advanced techniques for piano playing, including improvisation and complex rhythms.",
+            "price": 59.99,
+            "instruction": "Alice Johnson",
+            "isFeatured": true,
+            "image": "https://example.com/images/advanced-piano.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Drumming Basics",
+            "slug": "drumming-basics",
+            "description": "An introductory course for drummers covering basic rhythms, techniques, and drum patterns.",
+            "price": 29.99,
+            "instruction": "Michael Lee",
+            "isFeatured": false,
+            "image": "https://example.com/images/drumming-basics.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Vocal Training Essentials",
+            "slug": "vocal-training-essentials",
+            "description": "Improve your singing skills with exercises focusing on pitch, tone, and breath control.",
+            "price": 44.99,
+            "instruction": "Emily Davis",
+            "isFeatured": true,
+            "image": "https://example.com/images/vocal-training.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Music Production 101",
+            "slug": "music-production-101",
+            "description": "Learn the basics of music production, including recording, mixing, and mastering techniques.",
+            "price": 69.99,
+            "instruction": "Robert Brown",
+            "isFeatured": false,
+            "image": "https://example.com/images/music-production.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Jazz Improvisation",
+            "slug": "jazz-improvisation",
+            "description": "A course designed to enhance your skills in jazz improvisation and solo performance.",
+            "price": 54.99,
+            "instruction": "Sophia Wilson",
+            "isFeatured": true,
+            "image": "https://example.com/images/jazz-improvisation.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Electronic Music Composition",
+            "slug": "electronic-music-composition",
+            "description": "Dive into the world of electronic music and learn how to compose and produce tracks using digital tools.",
+            "price": 74.99,
+            "instruction": "David White",
+            "isFeatured": true,
+            "image": "https://example.com/images/electronic-composition.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Classical Music Appreciation",
+            "slug": "classical-music-appreciation",
+            "description": "Explore the history and elements of classical music through listening and analysis.",
+            "price": 34.99,
+            "instruction": "Laura Green",
+            "isFeatured": true,
+            "image": "https://example.com/images/classical-appreciation.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Songwriting Fundamentals",
+            "slug": "songwriting-fundamentals",
+            "description": "Develop your songwriting skills by learning about structure, melody, and lyrical techniques.",
+            "price": 49.99,
+            "instruction": "James Turner",
+            "isFeatured": false,
+            "image": "https://example.com/images/songwriting.jpg"
+        }
+    ]
+}
