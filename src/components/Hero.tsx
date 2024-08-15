@@ -19,12 +19,12 @@ function Hero() {
         >Master the art of music</h1>
         <div>
            
-            <p className='p-10'>There are many variations of passages of Lorem Ipsum available, 
-                but the majority have suffered alteration in some
-                form, by injected humour, or randomised words which
-                look even slightly believable. If you are going 
-                to use a passage of Lorem Ipsum, you need to be sure 
-                there t anything embarrassing hidden in the middleof text. All the Lorem Ipsum generators on the Internet. 
+            <p className='p-10'> Music is a universal language that connects people across cultures and time. At its essence, music is the art of combining sounds to create harmony, melody, and rhythm. It has been an integral part of human life for thousands of years, serving as a form of expression, communication, and connection.
+
+From the spiritual chants of ancient cultures to the complex symphonies of the classical era, music has evolved in countless ways. It plays a vital role in ceremonies, celebrations, and everyday life, evoking emotions and memories that words often cannot capture.
+
+
+
              </p>
         </div>
         
